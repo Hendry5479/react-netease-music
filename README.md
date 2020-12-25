@@ -4,9 +4,13 @@
 
 ### 1.1. 项目简介
 使用React编写的云音乐Web项目，接口来源于[网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)，自己已经做了部署
+
 感谢王红元老师的React课程，让我受益匪浅。
+
 目前完成“发现音乐”和“我的音乐”模块的部分功能，计划继续完善项目功能。
+
 效果一览：http://121.36.81.230:80 (域名正在备案中...)
+
 **推荐页面**：
 
 ![推荐页面](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghva5bx7bvj31d10p6thq.jpg)
@@ -21,7 +25,6 @@
 
 
 ![排行榜页面](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghv9qjg0m4j31d10p4ai3.jpg)
-
 
 
 ![新碟上架页面](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghv9uryexgj31d10p4aue.jpg)
